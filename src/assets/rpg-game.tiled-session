@@ -9,11 +9,11 @@
     ],
     "fileStates": {
         "durotar.json": {
-            "scale": 0.75,
+            "scale": 2,
             "selectedLayer": 1,
             "viewCenter": {
-                "x": -162.66666666666666,
-                "y": -102
+                "x": 604.5,
+                "y": 221.5
             }
         },
         "durotar.json#tiles": {
