@@ -7,7 +7,7 @@ new Phaser.Game({
 	height: 600,
 	title: 'Phaser RPG',
 	scene: Durotar,
-	url: import.meta.env.URL || '',
+	url: import.meta.env.URL || '7777',
 	version: import.meta.env.VERSION || '0.0.1',
 	backgroundColor: '#000',
 	scale: {

@@ -1,0 +1,34 @@
+{
+    "Map/SizeTest": {
+        "height": 4300,
+        "width": 2
+    },
+    "activeFile": "durotar.json",
+    "expandedProjectPaths": [
+        "."
+    ],
+    "fileStates": {
+        "durotar.json": {
+            "scale": 0.75,
+            "selectedLayer": 1,
+            "viewCenter": {
+                "x": -162.66666666666666,
+                "y": -102
+            }
+        },
+        "durotar.json#tiles": {
+            "scaleInDock": 1.5
+        }
+    },
+    "last.imagePath": "C:/Users/Jaros/project/nodejs_creation/ts/rpg-game/src/assets",
+    "map.lastUsedFormat": "json",
+    "openFiles": [
+        "durotar.json"
+    ],
+    "project": "rpg-game.tiled-project",
+    "recentFiles": [
+        "durotar.json"
+    ],
+    "tileset.embedInMap": true,
+    "tileset.spacing": 1
+}
